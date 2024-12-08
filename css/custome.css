@@ -1062,7 +1062,7 @@ blockquote {
 
 @media screen and (max-width: 480px) {
   h1 {
-    font-size: 36px;
+    font-size: 40px;
   }
 
   h2 {
@@ -1079,5 +1079,9 @@ blockquote {
 
   h5 {
     font-size: 20px;
+  }
+  .hero-section {
+    padding-top: 120px;
+    padding-bottom: 200px;
   }
 }
