@@ -1049,6 +1049,15 @@ blockquote {
   .aboutUs-details {
     padding: 50px 0;
   }
+  .custom-block-overlay {
+    overflow: auto;
+  }
+  .custom-block-overlay-text {
+    position: static;
+  }
+  .custom-block-overlay .custom-block-image {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 480px) {
